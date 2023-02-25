@@ -29,10 +29,10 @@
 
 # Первый шаг
 Открыли шаблон лабораторной работы в формате docx и начали переносить ее на язык Markdown
-[Image alt](Screens1.png)
+![Image alt](https://github.com/Oleynikgit/labs/blob/main/lab3/screenshotspreza/Screens1.png)
 # Второй шаг
 Добавили скриншоты в наш отчёт
-
+![Image alt](https://github.com/Oleynikgit/labs/blob/main/lab3/screenshotspreza/Screens2.png)
 
 
 # Вывод
